@@ -2,3 +2,8 @@ header {
     background-color: aqua;
     border: 1px solido black;
 }
+
+footer {
+    background-color: blueviolet;
+    border-radius: 5px;
+}
