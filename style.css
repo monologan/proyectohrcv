@@ -5,5 +5,7 @@ header {
 
 footer {
     background-color: blueviolet;
-    border-radius: 5px;
+    border-radius: 7px;
+    text-align: center;
+
 }
