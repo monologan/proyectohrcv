@@ -4,6 +4,7 @@ header {
 }
 
 
+
 .footer {
     background-color: brown;
     padding: 1rem 0;
@@ -15,3 +16,14 @@ header {
     font-style: italic;
     font-weight: bold;
 }
+
+
+nav {
+  
+    background-color: antiquewhite;
+    border-radius: 7px;
+    text-align: center;
+
+}
+
+
